@@ -11,3 +11,9 @@ Certifications:
 Journey to Cloud: Envisioning Your Solution https://www.credly.com/badges/d51bf0fd-e95b-43cf-87d0-9c774c48b3ae/public_url
 
 Getting Started with Enterprise Data Science https://www.credly.com/badges/8a17e5cd-fcf3-4284-ae25-70117ce508e0/public_url
+
+Following Bootstrap template has been utilized for this project.
+
+Template Name: FlexStart Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/ 
+
+Author: BootstrapMade.com License: https://bootstrapmade.com/license/
