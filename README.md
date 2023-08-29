@@ -6,6 +6,12 @@ ALL Project Files https://drive.google.com/drive/folders/1H21E5f400HJMxqNpY6AjRj
 
 Dataset https://drive.google.com/file/d/17ejRwQ7ZdlJo4V76hbwEzgVsRc_i53SI/view?usp=sharing
 
+Dashboard, Report and Story Pdf: https://drive.google.com/drive/folders/1dYFDmebf3tG1x_iDS3GLQwrDSYKX55Lx?usp=sharing
+
+Output: https://drive.google.com/file/d/1osaw-X4xIcWTzTbedcMQp_WCxNEOH8ZM/view?usp=sharing
+
+Project Report: https://drive.google.com/file/d/1Mtubl91fRPnIbROUzJ7Zqd7IDL1s_BCz/view?usp=sharing
+
 Certifications:
 
 Journey to Cloud: Envisioning Your Solution https://www.credly.com/badges/d51bf0fd-e95b-43cf-87d0-9c774c48b3ae/public_url
